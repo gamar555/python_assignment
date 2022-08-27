@@ -1,0 +1,2 @@
+data="Amarjeet"
+print(data)
